@@ -4,7 +4,7 @@ Foi construido uma calculadora em java com a fnção de converter temperaturas F
 Metodo:
 grausC = (grausF - 32) / 1.8;
 
-Também criamos um teste unitário com o obejtvo de testar o metodo.
+Também criamos um teste unitário com o obejtvo de testar o metodo
 
 Ferramentas e tecnologias utilizadas:
 
