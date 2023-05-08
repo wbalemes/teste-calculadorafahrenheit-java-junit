@@ -1,6 +1,6 @@
 # teste-calculadorafahrenheit-java-junit
 
-Foi construido uma calculadora em java com a fnção de converter temperaturas Fahrenheit para Celsius:
+Foi construido uma calculadora em java com a função de converter temperaturas Fahrenheit para Celsius:
 Metodo:
 grausC = (grausF - 32) / 1.8;
 
