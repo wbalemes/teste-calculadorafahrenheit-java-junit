@@ -9,7 +9,7 @@ public class ConversorFahrenheitCelsius {
 		System.out.println("Digite a temperatura em Fahrenheit: ");
 		double grausF = input.nextDouble();
 		
-		double grausC = converter.fahrenheittocelsius(grausF);
+		double grausC = converter.fahrenheitToCelsius(grausF);
 		System.out.printf("A temperadtura em Celsius e: %.2f", grausC);
 		
 input.close();

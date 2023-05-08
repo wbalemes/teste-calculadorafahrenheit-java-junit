@@ -10,7 +10,7 @@ class ConversorFahrenheitCelsiusTeste {
 		Conversor converter = new Conversor();
 
 		double grausF = 50;
-		double grausC = converter.fahrenheittocelsius(grausF);
+		double grausC = converter.fahrenheitToCelsius(grausF);
 
 		assertEquals(10,00 , grausC);
 	}
